@@ -1,0 +1,29 @@
+.back {
+    border: solid 1px #c7b7b7;
+    border-radius: 5px;
+    height: 240px;
+    width: 730px;
+    margin-left:140px;
+}
+    .back p {
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size:30px;
+        margin-left:355px;
+        margin-top:-182px;
+    }
+    .back img{
+        margin:20px;
+    }
+
+    .in{
+        margin-left:578px;
+        margin-top:66px;
+           
+    }
+
+.cost p {
+    margin-left: 355px;
+    color:rgba(108, 97, 97, 0.52);
+    font-size: 16px;
+    margin-top: -17px;
+}
